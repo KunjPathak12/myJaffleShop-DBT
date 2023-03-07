@@ -12,7 +12,9 @@ The raw data consists of customers, orders, and payments, with the following ent
 
 ### Running this project
 To get up and running with this project:
+
 Note : Before running this commands first give command of " venv/Scripts/activate " to acticate the environment.
+
 1. Install dbt using [these instructions](https://docs.getdbt.com/docs/installation).
 
 2. Clone this repository.
